@@ -17,6 +17,8 @@ To set up the project, follow these steps:
 
 ```bash
 git clone https://github.com/username/repo.git
+```
+
 Navigate to the project directory:
 ```
 cd 'project
@@ -33,6 +35,6 @@ npm start
 
 ## Images
 
-![Image 1](imges/1699286026988-create_a_logo_for_a_community_named_Initiative.jpg)
-![Image 2](images/1699286041432-metal.png)
+![Image 1](./imges/1699286026988-create_a_logo_for_a_community_named_Initiative.jpg)
+![Image 2](./images/1699286041432-metal.png)
 
